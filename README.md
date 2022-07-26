@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David Chase</h1>
+<h1 align="center">Hi 👋 </h1>
 <h3 align="center">IOS, Swift, Java, Dart/flutter</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cmobiledev5&label=Profile%20views&color=0e75b6&style=flat" alt="cmobiledev5" /> </p>

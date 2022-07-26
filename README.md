@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **IOS, Swift, Java, Dart/flutter**
 
-- 📫 How to reach me **chasedavid589@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
